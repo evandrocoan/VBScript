@@ -13,27 +13,25 @@ Original author: [Thomas Aylott](http://svn.textmate.org/trunk/Bundles/ASP_vb_NE
 ![Espresso](https://raw.githubusercontent.com/SublimeText/VBScript/master/screenshots/espresso.png)
 ![Monokai](https://raw.githubusercontent.com/SublimeText/VBScript/master/screenshots/monokai.png)
 
+
 ## Installation
 
-There are several ways to install this package.
+### By Package Control
 
-### Package Control
+1. Download & Install `Sublime Text 3` (https://www.sublimetext.com/3)
+1. Go to the menu `Tools -> Install Package Control`, then,
+   wait few seconds until the `Package Control` installation finishes
+1. Go to the menu `Preferences -> Package Control`
+1. Type `Package Control Add Channel` on the opened quick panel and press <kbd>Enter</kbd>
+1. Then, input the following address and press <kbd>Enter</kbd>
+   ```
+   https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/channel.json
+   ```
+1. Now, go again to the menu `Preferences -> Package Control`
+1. This time type `Package Control Install Package` on the opened quick panel and press <kbd>Enter</kbd>
+1. Then, search for VBScript`` and press <kbd>Enter</kbd>
 
-The easiest way to install this package is through [Package Control](http://wbond.net/sublime_packages/package_control).
+See also:
+1. [ITE - Integrated Toolset Environment](https://github.com/evandrocoan/ITE)
+1. [Package control docs](https://packagecontrol.io/docs/usage) for details.
 
-* Install [Package Control](http://wbond.net/sublime_packages/package_control/installation)
-* Open the `Command Palette` (`Tools >> Command Palette` or `Ctrl+Shift+P` or `Cmd+Shift+P`).
-* Type `Install Package` and hit return.
-* Type `VBScript` and hit return.
-
-### Using Git
-
-Go to your Sublime Text `Packages` directory and clone the repository using the command below:
-
-    git clone https://github.com/SublimeText/VBScript "VBScript"
-
-### Download Manually
-
-* Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `VBScript`
-* Copy the folder to your Sublime Text `Packages` directory
