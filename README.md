@@ -45,7 +45,8 @@ Original author: [Thomas Aylott](http://svn.textmate.org/trunk/Bundles/ASP_vb_NE
 1. Now,
    go to the menu **`Preferences -> Package Control`**
 1. Type **`Install Package`** on the opened quick panel and press <kbd>Enter</kbd>
-1. Then, search for VBScript`` and press <kbd>Enter</kbd>
+1. Then,
+   search for **`VBScript`** and press <kbd>Enter</kbd>
 
 See also:
 1. [ITE - Integrated Toolset Environment](https://github.com/evandrocoan/ITE)
